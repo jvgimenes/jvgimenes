@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [IBM](https://www.ibm.com) as a Systems Support Specialist
+- 🔭 I’m currently working at [IBM](https://www.ibm.com) as a Systems Support Specialist
 
 <a href="https://www.linkedin.com/in/jvmgimenes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 
